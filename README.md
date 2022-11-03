@@ -2,6 +2,8 @@
   
 
 - 🚀 I am currently working as the Chief Technical Officer (CTO) at [Krypton Technologies](https://krypton.my)  
+- 💡 I am currently active joining start-up competitions!
+- 📞 Contact me at [elyasasmad@krypton.my](mailto: elyasasmad@krypton.my)
   
 
 <br/>  
