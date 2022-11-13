@@ -106,9 +106,6 @@
 
 <br/>
 
-![hehe cat](https://user-images.githubusercontent.com/78308067/201481919-9ee1590e-48d8-4fd3-8dee-59d63d9d186a.jpeg)
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ElyasAsmad&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
