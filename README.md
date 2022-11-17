@@ -5,13 +5,10 @@
 - 💡 I am currently active joining start-up competitions!
 - 📞 Contact me at [elyasasmad@krypton.my](mailto:elyasasmad@krypton.my)
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### UI/UX  
