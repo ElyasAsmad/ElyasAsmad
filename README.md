@@ -1,7 +1,7 @@
 ### <div align="center">I'm Elyas Asmad, a mobile & full-stack developer currently pursuing study in IIUM</div>  
   
 
-- 🚀 I am currently working as the Chief Technical Officer (CTO) at [Krypton Technologies](https://krypton.my)  
+- 🚀 I am currently pursuing my computer science degree in [International Islamic University Malaysia (IIUM)](https://iium.edu.my)
 - 📞 Contact me at [elyasasmad@krypton.my](mailto:elyasasmad@krypton.my)
   
 <br/>  
