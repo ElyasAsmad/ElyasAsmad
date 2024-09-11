@@ -2,7 +2,7 @@
   
 
 - 🚀 I am currently pursuing my computer science degree in [International Islamic University Malaysia (IIUM)](https://iium.edu.my)
-- 📞 Contact me at [elyasasmad@krypton.my](mailto:elyasasmad@krypton.my).
+- 📞 Contact me at [elyasasmadz@gmail.com](mailto:elyasasmadz@gmail.com).
   
 <br/>  
 
