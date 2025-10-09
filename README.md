@@ -3,8 +3,8 @@
 
 - 🚀 I am currently pursuing my computer science degree in [International Islamic University Malaysia (IIUM)](https://iium.edu.my)
 - 📞 Contact me at [elyasasmadz@gmail.com](mailto:elyasasmadz@gmail.com).
-  
-<br/>  
+
+[![committers.top badge](https://user-badge.committers.top/malaysia_private/ElyasAsmad.svg)](https://user-badge.committers.top/malaysia_private/ElyasAsmad)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
