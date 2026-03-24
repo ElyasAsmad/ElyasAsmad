@@ -1,4 +1,4 @@
-### <div align="center">I'm Elyas Asmad, a seasoned mobile & full-stack developer</div>  
+### <div align="center">Elyas Asmad, mobile & full-stack developer</div>  
   
 <div align="center"><a href="mailto:contact@persuratan.elyasasmad.com">contact@persuratan.elyasasmad.com</a></div>
 
