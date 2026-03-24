@@ -1,8 +1,8 @@
-### <div align="center">I'm Elyas Asmad, a mobile & full-stack developer currently pursuing study in IIUM</div>  
+### <div align="center">I'm Elyas Asmad, a seasoned mobile & full-stack developer</div>  
   
+<div align="center"><a href="mailto:contact@persuratan.elyasasmad.com">contact@persuratan.elyasasmad.com</a></div>
 
-- 🚀 I am currently pursuing my computer science degree in [International Islamic University Malaysia (IIUM)](https://iium.edu.my)
-- 📞 Contact me at [elyasasmadz@gmail.com](mailto:elyasasmadz@gmail.com).
+<br>
 
 [![committers.top badge](https://user-badge.committers.top/malaysia_private/ElyasAsmad.svg)](https://user-badge.committers.top/malaysia_private/ElyasAsmad)
 
